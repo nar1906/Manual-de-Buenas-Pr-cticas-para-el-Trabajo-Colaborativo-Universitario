@@ -21,7 +21,7 @@ Este proyecto se gestiona estrictamente bajo la metodología de control de versi
 
 Para ver todos los commits estan en Actualizaciones, mi-seccion y lo ultimo al Main.
 
-1. Gestión de Tareas: donde están los issues con el Tablero Kanban del Proyecto (https://github.com/users/nar1906/projects/1) ]
+1. Gestión de Tareas: donde están los issues con el Tablero Kanban del Proyecto (https://github.com/users/nar1906/projects/1) 
 
 2. Actualizar el entorno: Asegurarse de tener la última versión del código base ejecutando git pull origin main.
 
