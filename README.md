@@ -36,4 +36,4 @@ Comando: git checkout -b main
 # Autores
 Narly Aldana - Coordinación, Estructura y Redacción - @nar19066
 
-Maria Fernan Paredes -  Investigación y Redacción - 
+Maria Fernanda Paredes -  Investigación y Redacción - 
